@@ -1,7 +1,3 @@
----
-title: Machine Learning
----
-
 # Machine Learning AI
 
 There are many games out there with players wanted to increase their skill levels, but without many resources. SuperSmash Bros. has created a way to do just that.
